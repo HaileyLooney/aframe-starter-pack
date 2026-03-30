@@ -61,9 +61,11 @@ To **edit a copy of your code locally and keep everything synced** with your onl
 4. Right-click `index.html` and choose **Open with Live Preview**.
 5. Your page should open in a browser so you can preview it while you work.
 
+## Now make it your own!
+
 > Congratulations! You've set up everything to get going with your own experiments with this Starter Pack! Now, repeat this following steps (Edit Your Code Locally -> Save, Commit and Push) as you continue editing your code. This way your work isn't just saved to your computer but is synced to your Github account (and automatically updates your Github Pages live site).
 
-### Edit Your Code Locally and Preview it
+### Edit Your Code and Preview it Locally
 1. In VS Code, open the `index.html` file.
 2. Add your name in the `index.html` after "by".
    - `"webAR experiments in A-frame <b>by __YourName____</b>."`
